@@ -1,0 +1,91 @@
+﻿.titulo {
+	position: relative;
+	top: -10px; 
+	left: -10px;
+	width: 1360px;
+	height: 120px;
+	font-family:sans-serif;
+	padding:10px 10px 10px 10px;
+	background-image: url('https://3.bp.blogspot.com/-3NZdQ73O-Fg/Wjvy24DZG2I/AAAAAAAAAAM/bpHd0ZGl3rAF5qPcUqYbDzNFxwGWLcftQCLcBGAs/s1600/Background%2BVintage%2BMarron%2BClaro.png');
+	font-style:white;
+	
+}
+.menu{
+ position:relative;
+ top:-10px ;
+ left:-10px;
+ width:1360px;
+ height: 50px;
+ font-family:sans-serif;
+ padding:10px 10px 10px 10px;
+ background-color:#3CB371;
+ text-decoration: none;
+ 
+}
+ .foto_central{
+	position:absolute;
+	top:320px;
+	left: 00px;
+	
+ }
+ .paragrafo1{
+ position:absolute;
+ top:200px ;
+ left:550px;
+ width:600px;
+ height:800px;
+ font-size:18px;
+ font-family:sans-serif;
+ }
+ .paragrafo2{
+ position:absolute;
+ top:350px ;
+ left:225px;
+ width:1000px;
+ height:800px;
+ font-family:courier*;
+ }
+ .foto2{
+	 position:absolute;
+	 top: 600px;
+ }
+ .paragrafo3{
+ position:absolute;
+ top:585px ;
+ left:225px;
+ width:1000px;
+ height:800px;
+ font-family:courier*;
+ }
+ .foto3{
+	 position:absolute;
+	 top: 850px;
+ }
+ .paragrafo4{
+ position:absolute;
+ top:-15px ;
+ left:225px;
+ width:1000px;
+ height:800px;
+ font-family:courier*;
+ }
+  .foto4{
+	 position:absolute;
+	 top: 280px;
+  }
+   .paragrafo5{
+ position:absolute;
+ top:265px ;
+ left:225px;
+ width:1000px;
+ height:800px;
+ font-family:courier*;
+ }
+ .parte_inferior {
+	position: absolute;
+	top: 550px; 
+	left: -10px;
+	width: 1360px;
+	height: 135px;
+	background-color: #3CB371;
+ }
